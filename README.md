@@ -16,14 +16,36 @@
 
 <p>Click here to <a title="Create a new feature request" href="https://github.com/mraaz/myG_RoadMap/issues/new?assignees=&labels=enhancement&template=feature_request.md&title="> Create a new feature request</a> or <a title="view current list" href="https://github.com/mraaz/myG_RoadMap/issues">view current list </a>and vote up by clicking on the 👍 in the reactions.
 </p>  
- 
+<br>
 <details>
-  <summary><em>Guide on how to Up vote</em></summary>
+  <summary><em>Guide on how to up vote</em></summary>
   <br>
   Issues with the most votes will get higher priority and more likely to get implemented into myG.
   <br><br>
   Find the issue you want to up vote, click into it and click the Thumbs up 👍 in the reactions menu (next to the three dots).
   <img alt="myG Upvote" src="https://mygame-media.s3.amazonaws.com/stock_images/upVote.PNG" />  
+</details>
+
+## Support myG
+<details>
+  <summary><em>Would you like to help this project grow?</em></summary>
+  <br>
+  
+## Kickstarter 
+Back our campaign with a one time donation
+
+## 🖖 Gamer 🖖 [![Backers on Open Collective](https://opencollective.com/myg/tiers/gamer/badge.svg?label=Gamer&color=brightgreen)](#backers)
+Support myG with a monthly donation and help us continue our activities. [[Become a Gamer](https://opencollective.com/myG)]
+<br>
+<br>
+## 💪 Pro Gamer 💪
+Pro Gamers will get priority on their feature/bug requests. [[Become a Pro Gamer](https://opencollective.com/myG)]
+<br>
+<br>
+## :godmode: Ultimate Gamer :godmode:
+Ultimate Gamer's will get 1-1's with the founders of myG and you will have a real impact on myG's features. [[Become a Ultimate Gamer](https://opencollective.com/myG)]
+<br>
+<br>  
 </details>
 
 
