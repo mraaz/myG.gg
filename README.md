@@ -34,15 +34,15 @@
 ## Kickstarter 
 Back our campaign with a one time donation
 
-## 🖖 Gamer 🖖 [![Backers on Open Collective](https://opencollective.com/myg/tiers/gamer/badge.svg?label=Gamer&color=brightgreen)](#gamer)
+## 🖖 Gamer 🖖 [![Gamer on Open Collective](https://opencollective.com/myg/tiers/gamer/badge.svg?label=Gamer&color=brightgreen)](#gamer)
 Support myG with a monthly donation and help us continue our activities. [[Become a Gamer](https://opencollective.com/myG)]
 <br>
 <br>
-## 💪 Pro Gamer 💪 <img src="https://opencollective.com/myg/tiers/pro-gamer/badge.svg?label=Pro%20Gamer&color=brightgreen" />
+## 💪 Pro Gamer 💪 [![Pro Gamer on Open Collective](https://opencollective.com/myg/tiers/pro-gamer/badge.svg?label=Pro%20Gamer&color=brightgreen)](#progamer)
 Pro Gamers will get priority on their feature/bug requests. [[Become a Pro Gamer](https://opencollective.com/myG)]
 <br>
 <br>
-## :godmode: Ultimate Gamer :godmode:
+## :godmode: Ultimate Gamer :godmode: [![Ultimate Gamer on Open Collective](https://opencollective.com/myg/tiers/ultimate-gamer/badge.svg?label=Ultimate%20Gamer&color=brightgreen)](#Ultimategamer)
 Ultimate Gamer's will get 1-1's with the founders of myG and you will have a real impact on myG's features. [[Become a Ultimate Gamer](https://opencollective.com/myG)]
 <br>
 <br>  
