@@ -34,11 +34,11 @@
 ## Kickstarter 
 Back our campaign with a one time donation
 
-## 🖖 Gamer 🖖 [![Backers on Open Collective](https://opencollective.com/myg/tiers/gamer/badge.svg?label=Gamer&color=brightgreen)](#backers)
+## 🖖 Gamer 🖖 [![Backers on Open Collective](https://opencollective.com/myg/tiers/gamer/badge.svg?label=Gamer&color=brightgreen)](#gamer)
 Support myG with a monthly donation and help us continue our activities. [[Become a Gamer](https://opencollective.com/myG)]
 <br>
 <br>
-## 💪 Pro Gamer 💪
+## 💪 Pro Gamer 💪 <img src="https://opencollective.com/myg/tiers/pro-gamer/badge.svg?label=Pro%20Gamer&color=brightgreen" />
 Pro Gamers will get priority on their feature/bug requests. [[Become a Pro Gamer](https://opencollective.com/myG)]
 <br>
 <br>
