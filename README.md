@@ -20,12 +20,14 @@
 <details>
   <summary><em>Guide on how to Up vote</em></summary>
   <br>
-  Issues with the most votes will get higher priority and more likely to get implemented into myG. GLHF!!!
-  <br>
+  Issues with the most votes will get higher priority and more likely to get implemented into myG.
+  <br><br>
   Find the issue you want to up vote, click into it and click the Thumbs up 👍 in the reactions menu (next to the three dots).
   <img alt="myG Upvote" src="https://mygame-media.s3.amazonaws.com/stock_images/upVote.PNG" />  
 </details>
 
+
+GLHF 
 
  
 
