@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  myG will take a community lead approach for new features. This means our road map will be influenced by ideas created and voted up by you. Help make this platform truly beneficial to your gaming experience. <br><br></p>
+  myG will take a community lead approach for new features. This means our road map will be influenced by ideas created and voted by you. Help make this platform truly beneficial to your gaming experience. <br><br></p>
 
 ## :beetle: Bug report
 
