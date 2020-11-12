@@ -1,7 +1,8 @@
 # myG Roadmap
 
 <p align="center">
-  <img alt="myG Logo" width="300px" src="https://mygame-media.s3.amazonaws.com/platform_images/Login+Screen/Card_Logo.svg" />
+  <a title="myG Logo" href="https://myG.gg"> 
+  <img alt="myG Logo" width="300px" src="https://mygame-media.s3.amazonaws.com/platform_images/Login+Screen/Card_Logo.svg" /> </a>
 </p>
 
 <p align="center">
