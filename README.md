@@ -43,7 +43,7 @@ Pro Gamers will get priority on their feature/bug requests. [[Become a Pro Gamer
 <br>
 <br>
 ## :godmode: Ultimate Gamer :godmode: [![www,gmail.com](https://opencollective.com/myg/tiers/ultimate-gamer/badge.svg?label=Ultimate%20Gamer&color=brightgreen)](https://opencollective.com/myG)
-Ultimate Gamer's will get 1-1's with the founders of myG and you will have a real impact on myG's features. [[Become a Ultimate Gamer](https://opencollective.com/myG)]
+Ultimate Gamer's will get 1-1's with the founders of myG and you will have a real impact on myG's roadmap. [[Become a Ultimate Gamer](https://opencollective.com/myG)]
 <br>
 <br>  
 </details>
