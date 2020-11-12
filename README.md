@@ -1,7 +1,7 @@
 # myG Road Map
 
 <p align="center">
-  <img alt="myG Logo" width="300px" src="https://mygame-media.s3.amazonaws.com/platform_images/Login+Screen/Card_Logo.svg'" />
+  <img alt="myG Logo" width="300px" src="https://mygame-media.s3.amazonaws.com/platform_images/Login+Screen/Card_Logo.svg" />
 </p>
 
 <p align="center">
