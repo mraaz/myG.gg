@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>Meetup Planning :calendar:</strong>
-</p>
-
-
-<p align="center">
   myG will take a communuty lead approach for new features. This means our road map will be influenced by ideas created and voted up by you. Help make this platform truely benefical to your gaming experience. <br><br>
 
 Click here to <a title="Create a new feature request" href="https://github.com/myG_RoadMap/issues/new/choose"> or <a title="view current list" href="https://github.com/myG_RoadMap/issues/new/choose"> and vote up by clicking on the +1 in the reactions.
