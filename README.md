@@ -17,6 +17,11 @@
 <p>Click here to <a title="Create a new feature request" href="https://github.com/mraaz/myG_RoadMap/issues/new?assignees=&labels=enhancement&template=feature_request.md&title="> Create a new feature request</a> or <a title="view current list" href="https://github.com/mraaz/myG_RoadMap/issues">view current list </a>and vote up by clicking on the +1 in the reactions.
 </p>  
  
+<details>
+  <summary><em>Guide for Up voting</em></summary>
+  <img alt="myG Logo" width="300px" src="https://mygame-media.s3.amazonaws.com/stock_images/upVote.PNG" />  
+</details>
+
 
  
 
