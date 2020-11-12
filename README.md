@@ -9,7 +9,7 @@
 
 ## :beetle: Bug report
 
-<p>Click here to <a title="Create a new feature request" href="https://github.com/mraaz/myG_RoadMap/issues/new?assignees=&labels=enhancement&template=feature_request.md&title="> Create a new feature request</a> or <a title="view current list" href="https://github.com/mraaz/myG_RoadMap/issues">view current list </a>and vote up by clicking on the +1 in the reactions.
+<p>Click here to <a title="Create a new bug report" href="https://github.com/mraaz/myG_RoadMap/issues/new?assignees=&labels=bug&template=bug_report.md&title="> Create a new bug report</a>. Before creating a report, please check its not already exisiting <a title="view current list" href="https://github.com/mraaz/myG_RoadMap/issues">here</a> , and if it is please up vote it so we know its important we get this fixed ASAP.
 </p> 
   
 ## :rainbow_flag: Feature Requests
