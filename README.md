@@ -19,7 +19,7 @@
  
 <details>
   <summary><em>Guide for Up voting</em></summary>
-  <img alt="myG Logo" width="400px" height="400px" src="https://mygame-media.s3.amazonaws.com/stock_images/upVote.PNG" />  
+  <img alt="myG Upvote" src="https://mygame-media.s3.amazonaws.com/stock_images/upVote.PNG" />  
 </details>
 
 
