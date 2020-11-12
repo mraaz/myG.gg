@@ -34,7 +34,7 @@
 ## Kickstarter 
 Back our campaign with a one time donation
 
-## 🖖 Gamer 🖖 [![Gamer on Open Collective](https://opencollective.com/myg/tiers/gamer/badge.svg?label=Gamer&color=brightgreen)](https://opencollective.com/myG)
+## 🖖 Gamer 🖖 [![Gamer on Open Collective](https://opencollective.com/myg/tiers/gamer/badge.svg?label=Gamer&color=brightgreen)](https://opencollective.com/myG){:target="_blank"}
 Support myG with a monthly donation and help us continue our activities. [[Become a Gamer](https://opencollective.com/myG)]
 <br>
 <br>
