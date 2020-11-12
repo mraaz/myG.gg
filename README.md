@@ -19,6 +19,7 @@
  
 <details>
   <summary><em>Guide for Up voting</em></summary>
+  
   Find the Feature or Bug, click into it and click the Thumbs up 👍
   <img alt="myG Upvote" src="https://mygame-media.s3.amazonaws.com/stock_images/upVote.PNG" />  
 </details>
