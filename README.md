@@ -42,7 +42,7 @@ Support myG with a monthly donation and help us continue our activities. [[Becom
 Pro Gamers will get priority on their feature/bug requests. [[Become a Pro Gamer](https://opencollective.com/myG)]
 <br>
 <br>
-## :godmode: Ultimate Gamer :godmode: [![Ultimate Gamer on Open Collective](https://opencollective.com/myg/tiers/ultimate-gamer/badge.svg?label=Ultimate%20Gamer&color=brightgreen)](#Ultimategamer)
+## :godmode: Ultimate Gamer :godmode: [![www,gmail.com](https://opencollective.com/myg/tiers/ultimate-gamer/badge.svg?label=Ultimate%20Gamer&color=brightgreen)](#Ultimategamer)
 Ultimate Gamer's will get 1-1's with the founders of myG and you will have a real impact on myG's features. [[Become a Ultimate Gamer](https://opencollective.com/myG)]
 <br>
 <br>  
