@@ -13,7 +13,7 @@
 <p>Click here to <a title="Create a new bug report" href="https://github.com/mraaz/myG_RoadMap/issues/new?assignees=&labels=bug&template=bug_report.md&title="> Create a new bug report</a>. Before creating a new bug, please check it is not already exisiting <a title="view current list" href="https://github.com/mraaz/myG_RoadMap/issues">here</a>. If it already exists, simply up vote it so we know it is important and we will try and get it fixed ASAP.
 </p> 
   
-## :rainbow_flag: Feature Requests
+## 💡 Feature Requests
 
 <p>Click here to <a title="Create a new feature request" href="https://github.com/mraaz/myG_RoadMap/issues/new?assignees=&labels=enhancement&template=feature_request.md&title="> Create a new feature request</a> or <a title="view current list" href="https://github.com/mraaz/myG_RoadMap/issues">view current list </a>and vote up by clicking on the 👍 in the reactions.
 </p>  
