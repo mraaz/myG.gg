@@ -40,11 +40,11 @@ Support myG with a monthly donation and help us continue our activities. [[Becom
 <br>
 <br>
 ## 💪 Pro Gamer 💪 [![Pro Gamer on Open Collective](https://opencollective.com/myg/tiers/pro-gamer/badge.svg?label=Pro%20Gamer&color=brightgreen)](https://opencollective.com/myG)
-Pro Gamers will get priority on their feature/bug requests. [[Become a Pro Gamer](https://opencollective.com/myG)]
+Pro Gamers will get priority on their feature/bug requests. And more... [[Become a Pro Gamer](https://opencollective.com/myG)]
 <br>
 <br>
 ## :godmode: Ultimate Gamer :godmode: [![www,gmail.com](https://opencollective.com/myg/tiers/ultimate-gamer/badge.svg?label=Ultimate%20Gamer&color=brightgreen)](https://opencollective.com/myG)
-Ultimate Gamer's will get 1-1's with the founders of myG and you will have a real impact on myG's roadmap. [[Become a Ultimate Gamer](https://opencollective.com/myG)]
+Ultimate Gamer's will get 1-1's with the founders of myG and you will have a direct impact on myG's roadmap. And more... [[Become a Ultimate Gamer](https://opencollective.com/myG)]
 <br>
 <br>  
 </details>
