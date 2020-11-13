@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: myG bug report
 about: Help us squash these bugs and improve the platform
 title: ''
 labels: bug
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is and the time it happened (Please provide us your GMT zone).
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
