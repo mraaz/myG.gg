@@ -23,7 +23,6 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-
 **System Info**
 Browser & version: (https://www.whatsmybrowser.org/)
 OS: (https://whatsmyos.com/)
