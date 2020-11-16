@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Your Info**
+myG Alias
+
 **Describe the bug**
 A clear and concise description of what the bug is and the time it happened (Please provide us your GMT zone).
 
@@ -19,3 +22,9 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
+
+
+**System Info**
+Browser & version: (https://www.whatsmybrowser.org/)
+OS: (https://whatsmyos.com/)
+
