@@ -24,6 +24,6 @@ Steps to reproduce the behavior:
 4. See error
 
 **System Info**
-Browser & version: (https://www.whatsmybrowser.org/)
-OS: (https://whatsmyos.com/)
+Browser & version (https://www.whatsmybrowser.org/):
+OS https://whatsmyos.com/):
 
