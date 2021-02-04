@@ -1,4 +1,4 @@
-# myG Roadmap
+# myG
 
 <p align="center">
   <a title="myG Logo" target="_blank" rel="noopener noreferrer" href="https://myG.gg"> 
