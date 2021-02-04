@@ -10,12 +10,12 @@
 
 ## :beetle: Bug report
 
-<p>Click here to <a title="Create a new bug report" href="https://github.com/mraaz/myG_RoadMap/issues/new?assignees=&labels=bug&template=bug_report.md&title="> Create a new bug report</a>. Before creating a new bug, please check it is not already exisiting <a title="view current list" href="https://github.com/mraaz/myG_RoadMap/issues">here</a>. If it already exists, simply up vote it so we know it is important and we will try and get it fixed ASAP.
+<p>Click here to <a title="Create a new bug report" href="https://github.com/mraaz/myG.gg/issues/new?assignees=&labels=bug&template=bug_report.md&title="> Create a new bug report</a>. Before creating a new bug, please check it is not already exisiting <a title="view current list" href="https://github.com/mraaz/myG.gg/issues">here</a>. If it already exists, simply up vote it so we know it is important and we will try and get it fixed ASAP.
 </p> 
   
 ## 💡 Feature Requests
 
-<p>Click here to <a title="Create a new feature request" href="https://github.com/mraaz/myG_RoadMap/issues/new?assignees=&labels=enhancement&template=feature_request.md&title="> Create a new feature request</a> or <a title="view current list" href="https://github.com/mraaz/myG_RoadMap/issues">view current list </a>and vote up by clicking on the 👍 in the reactions.
+<p>Click here to <a title="Create a new feature request" href="https://github.com/mraaz/myG.gg/issues/new?assignees=&labels=enhancement&template=feature_request.md&title="> Create a new feature request</a> or <a title="view current list" href="https://github.com/mraaz/myG.gg/issues">view current list </a>and vote up by clicking on the 👍 in the reactions.
 </p>  
 <br>
 <details>
@@ -49,8 +49,15 @@ Ultimate Gamer's will get 1-1's with the founders of myG and you will have a dir
 <br>  
 </details>
 
+## Request new game fields in myG
+<p>In myG, gamers have the ability to search for gamers or games based on in game fields. Click here to <a title="Request new in game fields in myG" href="https://github.com/mraaz/myG.gg/issues/new?assignees=&labels=request_game_fields&template=request_game_fields.md&title="> Request new in game fields</a>.
+</p>  
+<br>
+
 
 :yellow_heart: GLHF :black_heart:
+
+
 
  
 
