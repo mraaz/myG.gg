@@ -11,7 +11,7 @@ assignees: ''
 Name of the game
 
 **Describe the fields**
-A clear and concise description of each field and examples of values for these feilds
+A clear and concise description of each field and examples of values for these fields
 
 **Screenshots**
 If applicable, add screenshots from the game
