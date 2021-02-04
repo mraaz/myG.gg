@@ -1,6 +1,6 @@
 ---
 name: myG request for game fields
-about: myG support in game fields to search and filter on. Use this form to request new fields
+about: myG supports in game fields to search and filter on. Use this form to request new fields
 title: ''
 labels: request_game_fields
 assignees: ''
